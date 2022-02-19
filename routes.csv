@@ -1,0 +1,15 @@
+﻿name,url
+Dodge,https://www.dodge.com/hostc/windowSticker.do?vin=1C6RR7YT5GS400100
+Jeep,https://www.jeep.com/hostc/windowSticker.do?vin=1C4BJWEG8JL824598
+FIAT,https://www.fiatusa.com/hostd/windowsticker/getWindowStickerPdf.do?vin=ZFBCFYBT7GP401499
+FORD,https://www.windowsticker.forddirect.com/windowsticker.pdf?vin=1FT8W2BT9NEC38606
+Nissan,https://www.newcitynissan.com/api/legacy/pse/windowsticker/nissan?vin=3N1AB7AP2KY274881
+Lincoln,https://www.windowsticker.forddirect.com/windowsticker.pdf?vin=1FT8W2BT9NEC38606
+Hyundai,https://www.conicellihyundai.com/api/legacy/pse/windowsticker/hyundai?vin=5NMJECAE6NH080784
+Mitsubishi,https://www.mitsubishicars.com/rs/file/monroney?vin=JA4ASVAA4NZ053963
+#Toyota,https://api.toyotainventory.com/VEHICLES/4T1EA1AB7MU007403/monroney
+Subaru,https://www.sheehysubaruhagerstown.com/api/legacy/pse/windowsticker/subaru?vin=JF2GTHNC1MH670639
+Volvo,https://www.northtownvolvo.com/api/legacy/pse/windowsticker/volvo?vin=YV4102RL2M1819151
+Alfa Romeo,https://www.alfaromeoofbirmingham.com/api/legacy/pse/windowsticker/alfa-romeo?vin=ZARFAMAN9K7600301
+KIA,https://www.kia.com/us/services/us/windowsticker/load/KNDEU2AA8N7295778
+#Chrysler / GMC / Cadillac,https://www.choosediamond.com/services/gm/windowSticker.do?vin=1G6DV5RW3M0117104&dealerCode=114932
